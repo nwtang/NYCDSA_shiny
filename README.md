@@ -5,5 +5,5 @@ Includes the following files:
 - preprocess.R: R script used for preprocessing data
 - ui.R and server.R: R scripts used for shiny app
 
-App can be accessed at: https://nwtang.shinyapps.io/weather/
-Project writeup: http://rpubs.com/nwtang/shinyapp
+- App can be accessed at: https://nwtang.shinyapps.io/weather/
+- Project writeup: http://rpubs.com/nwtang/shinyapp
