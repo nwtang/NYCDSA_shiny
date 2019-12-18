@@ -4,3 +4,6 @@ Includes the following files:
 - api.py: python script used to pull EPA data via API
 - preprocess.R: R script used for preprocessing data
 - ui.R and server.R: R scripts used for shiny app
+
+App can be accessed at: https://nwtang.shinyapps.io/weather/
+Project writeup: http://rpubs.com/nwtang/shinyapp
