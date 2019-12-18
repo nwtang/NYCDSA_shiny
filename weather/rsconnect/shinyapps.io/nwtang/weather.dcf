@@ -1,0 +1,12 @@
+name: weather
+title: weather
+username:
+account: nwtang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1470157
+bundleId: 2622128
+url: https://nwtang.shinyapps.io/weather/
+when: 1574869289.29534
+asMultiple: FALSE
+asStatic: FALSE
